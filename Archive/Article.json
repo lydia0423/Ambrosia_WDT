@@ -1,0 +1,41 @@
+{
+    "Paragraphs": [
+        {
+            "Id": "P1",
+            "Header": "Tip #1 - Canned and Frozen Fruits and Veggies",
+            "Content": "Many people think that canned and frozen fruit and veggies aren’t as healthy as fresh, but, this isn’t the case! Canned and frozen foods can be equally as nutritious and are packaged when they are just ripe, meaning they lock in all the nutrients. Frozen and canned foods are often cheaper compared to their fresh varieties. Plus, these foods will last for ages in your freezer or pantry, making them a great option for when you’re short on time or haven’t been shopping.",
+            "Additional": "Remember to keep an eye out for the salt content in the canned foods and the added sugar in frozen fruits and veggies. Choose frozen fruit without added sugar and canned fruit in water (rather than sweetened juice or syrup). Also make sure to choose canned vegetables without added salt."
+        },
+        {
+            "Id":"P2",
+            "Header":"Tip #2 - Plan for meatless meals each week",
+            "Content":"Meat and fish are among the most expensive items on a shopping list while plant protein often costs less. Pulses (beans, peas and lentils) are nutritious, very cheap and work well in place of meat.",
+            "Additional":""
+        },
+        {
+            "Id":"P3",
+            "Header":"Tip #3 - Check the specials!",
+            "Content":"An easy way to save money is by checking what’s on special and where. Before you go shopping, hop online and compare prices between major supermarkets. Signing up to rewards programs is another easy way to earn discounts.",
+            "Additional":""
+        },
+        {
+            "Id":"P4",
+            "Header":"Tip #4 - Shop seasonally",
+            "Content":"Foods that are in season are almost always cheaper! Not only will shopping seasonally save money, it also means added variety to your diet. If you aren’t fussed on what’s in season at a particular time, frozen fruit and veg is another great option! Another great idea for finding cheap produce is your local farmers market!",
+            "Additional":""
+        },
+        {
+            "Id":"P5",
+            "Header":"Tip #5 - Love your legumes",
+            "Content":"Adding legumes to your meals is a cheap and easy way to spread them out and make them last longer for less. A can of lentils or chickpeas costs less than $1, and can be added to pasta sauces, stir fries, curries and salads - plus, legumes are considered a vegetable and a protein alternative, making them a real superfood!",
+            "Additional":""
+        },
+        {
+            "Id":"P6",
+            "Header":"Tip #6 - Plan ahead",
+            "Content":"The best way to eat healthy on a budget, is by PLANNING! Work out your grocery budget, what meals and snacks you are having, what ingredients you need, and check online for prices and specials. Then, make a list and stick to it! Planning ahead makes sticking to a budget and a plan way easier!",
+            "Additional":""
+        }
+     
+    ]
+}

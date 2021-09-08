@@ -1,0 +1,79 @@
+
+
+New: 
+    ✔ Rewrite Javascript functions @done(20-08-30 19:05)
+    ✔ Function for decoding Located at header/header for scripts @done(20-08-30 12:41)
+    ✔ User Authentication @done(20-08-29 17:31)
+    ✔ Set relative path for Header("Location") @done(20-08-30 00:02)
+    ✔ Close database connection, located at Footer @done(20-08-30 12:42)
+    ✔ Added <br> to Recipe Steps at RecipePost for readability @done(20-08-30 15:40)
+    ✔ Standardised the appearance of the login/create account pages @done(20-08-31 00:05)
+    ✔ Change grid settings ot 80% for User - Settings @done(20-08-31 00:23)
+    ✔ Set security question alert At Login Verification/Account Create @done(20-08-31 00:25)
+    ✔ Changed message in Script Forgot Username @done(20-08-31 11:58)
+    ✔ Changed button appearance for forgot functions @done(20-08-31 11:58)
+    ✔ Changed forgot-password textboxes to type:Password @done(20-08-31 12:09)
+    ✔ Class Sidebar woops @done(20-08-31 12:14) @ClassPost, @ClassBrowse, @ClassBrowseTag
+    ☐ Classes authentication - Block access if not enrolled
+    ✔ Added autoplay to upcoming classes - Hpome @done(20-08-31 16:38)
+
+Testing :
+    ☐ Add New Article
+    ☐ Add New Class
+    ☐ Add New Recipe
+    ☐ Edit Article
+    ☐ Edit Class
+    ☐ Edit Recipe
+    ☐ Dark mode UI
+    ☐ Search
+    ☐ Carousel movement
+    ☐ General navigation around website
+    ☐ User - Save Settings
+
+Archive:
+  ✔ *Admin - Post Manager* @started(20-08-14 19:39) @done(20-08-29 14:42) @lasted(2w19h3m5s)
+  ✔ *Home Page* @started(20-08-14 19:38) @done(20-08-29 14:42) @lasted(2w19h4m6s)
+  ✔ *User-Main* @started(20-08-14 19:38) @done(20-08-14 23:22) @lasted(3h44m3s)
+  ✔ * No message if no classes have been purchased @done(20-08-14 22:18)
+  ✔ Recent bookmarks @done(20-08-14 19:40)
+  ✔ Edit Page yet to be set up @done(20-08-18 18:41)
+  ✔ Edit Article @done(20-08-18 12:35) Kinda somewhat not really idk anymore just gonna move on first
+  ✔ Edit Class @done(20-08-18 18:41)
+  ✔ Edit Recipe @done(20-08-17 16:38)
+  ✘ Display image file if it already exists @cancelled(20-08-24 23:37)
+  ✔ Add New Page yet to be set up @done(20-08-20 03:30)
+  ✔ Auto generate IDs @done(20-08-20 01:09)
+  ✔ Array entry somehow?? #Content/#Ingredients @done(20-08-20 01:08)
+  ✔ Class add new - configure @done(20-08-20 01:08)
+  ✔ Recipe Add New - configure @done(20-08-20 01:08)
+  ✔ Article Add New - Configure @done(20-08-20 01:39)
+  ✔ Redo the Edit Script array functions @done(20-08-20 03:30)
+  ✔ Delete post configured @done(20-08-15 17:39)
+  ✔ Filter post function not set up yet @done(20-08-15 15:58)
+  ✘ Confirm Save intentions/Preview @cancelled(20-08-28 12:18)
+  ✔ Trending posts @done(20-08-24 14:10)
+  ✔ Articles @done(20-08-15 02:23)
+  ✔ Recipes @done(20-08-15 02:23)
+  ✔ * Search function* @done(20-08-21 23:56)
+  ✔ *Sidebar* @done(20-08-24 11:30)
+  ✔ * Tags for Recipes and Articles* @done(20-08-24 11:30)
+  ✔ Check logo and titles of all pages @done(20-08-24 23:35)
+  ✔ Filter for User - Class @done(20-08-28 16:44)
+  ✔ JSON ' special characters why you do this to me @done(20-08-20 03:30)
+  ✔ Sort out the mess that is the css files @done(20-08-20 19:33)
+  ✔ Redo the IDs - C01 => C001 @done(20-08-15 17:39)
+  ✔ THEME FROM DATABASE Something something something save sessiosn set upon login @done(20-08-14 23:22)
+  ✘ Search Bar At Header @cancelled(20-08-24 23:35) @project(New)
+  ✘ Search Bar at Home @cancelled(20-08-24 23:35) @project(New)
+  ✔ Sidebar/Browse-content Height @done(20-08-23 16:24) @project(New)
+  ✔ Recipe/Article Browse Sidebar links @done(20-08-23 16:25) @project(New)
+  ✔ Search bar @done(20-08-23 16:25) @project(New)
+  ✔ Added #Msg in CSS @done(20-08-23 18:40) @project(New)
+  ✔ Add Tag - Prevent double entries @done(20-08-29 14:14) @project(New)
+  ✔ Add Admin - Prevent double entries @done(20-08-29 14:39) @project(New)
+  ✔ Class browse~ @done(20-08-14 23:22) @project(Completed)
+  ✔ Payment @done(20-08-14 23:22) @project(Completed)
+  ✔ User - Class @done(20-08-14 23:22) @project(Completed)
+  ✔ Admin - Payment @done(20-08-14 23:22) @project(Completed)
+    ✔ *<?php echo $_SESSION['Theme']; ?>* @started(20-08-14 19:38) @done(20-08-14 19:42) @lasted(4m12s)
+    ✔ _ .UserDiv {align-content: center;}_ @done(20-08-14 19:42)
